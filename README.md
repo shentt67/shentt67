@@ -10,8 +10,8 @@
 
 ### My papers
 ***
-- 🧭 **(Under review)** SecureReID: Privacy-Preserving Anonymization for Person Re-Identification.
-- 🧭 **(Under review)** Alleviate Oversmoothing in Deep Graph Neural Networks with Class-Difference and Dimension Decoupling.
+- 🧭 **(Under review)** **SecureReID: Privacy-Preserving Anonymization for Person Re-Identification.**
+- 🧭 **(Under review)** **Alleviate Oversmoothing in Deep Graph Neural Networks with Class-Difference and Dimension Decoupling.**
 
 ### More information
 ***
