@@ -9,8 +9,8 @@
 
 ### Hobbies
 *** 
-- 🎮🎮🎮 I am interested in games and novels on Oriental fantasy.
-- 🎸🎸🎸 I am a music fan and a guitar lover. If you like music or guitar, or want to play band, or looking for guitar player, contact and work together!
+<!-- - 🎮🎮🎮 I am interested in games and novels on Oriental fantasy.
+- 🎸🎸🎸 I am a music fan and a guitar lover. If you like music or guitar, or want to play band, or looking for guitar player, contact and work together! -->
 
 
 ### My papers
