@@ -1,3 +1,3 @@
 ### Hi, Welcome! 👋
 ***
-- 🏫 I am currently a master student in **Whuhan University**, Hubei Province, China. 
+- 🏫 I am currently a first-year master student in **Whuhan University**, Hubei Province, China. 
